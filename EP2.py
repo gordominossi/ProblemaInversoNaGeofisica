@@ -112,8 +112,9 @@ def Ex1():
 #             print('t_i', t_i)
 #             print('x_j', x_j)
 #             print('U[t_i][x_j]', U[i+1][j+1])
+    return U
 
 
 
 
-Ex1()
+print(Ex1())
